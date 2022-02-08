@@ -3,25 +3,25 @@
 Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about preparing for long-run investing and retirement.
 
 Factors over which you exercise some control include:  
--Income during your working years and changes in income over time;  
--Allocation and timing of investments;  
--Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
--At what age you may merge finances with a long-term partner;  
--At what age you may have children;  
--Support you expect to provide to and receive from your family;  
--How much you will spend, save, and invest during working years;  
--How much you will change your spending after retirement;  
--How you will change your investment approach after retirement;  
--Age of retirement;  
--Whether you retire suddenly or continue earning a smaller income for some time;  
--Personal goals such as charitable donations or leaving money for your children.
+* Income during your working years and changes in income over time;  
+* Allocation and timing of investments;  
+* Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
+* At what age you may merge finances with a long-term partner;  
+* At what age you may have children;  
+* Support you expect to provide to and receive from your family;  
+* How much you will spend, save, and invest during working years;  
+* How much you will change your spending after retirement;  
+* How you will change your investment approach after retirement;  
+* Age of retirement;  
+* Whether you retire suddenly or continue earning a smaller income for some time;  
+* Personal goals such as charitable donations or leaving money for your children.
 
 Factors over which you exercise little or no control include:  
--[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;  
--Inflation rates;  
--Interest rates;  
--Tax rates;  
--Government benefits like Social Security, which may change by the time you retire.
+* [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;  
+* Inflation rates;  
+* Interest rates;  
+* Tax rates;  
+* Government benefits like Social Security, which may change by the time you retire.
 
 The daunting scope of retirement planning may provoke some people who haven't thought much about the arc of their life plan to start to consider some important questions. What do you value about money and what do you want to do with it? How much is enough? How much time and how many years do you want to spend working for pay? After approaching financial independence, is there something you would enjoy doing that pays less or nothing at all? 
 
