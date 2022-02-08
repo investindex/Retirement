@@ -1,6 +1,6 @@
 # Investing for retirement
 
-Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about preparing for long-run investing and retirement.
+Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about long-run investing and retirement.
 
 Factors over which you exercise some control include:  
 * Income during your working years and changes in income over time;  
