@@ -31,6 +31,8 @@ Many of these variables can be entered into an online retirement calculator like
 
 I don't recommend relying on calculators like the one above (or rules of thumb like [this](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)). Some of the math needed for retirement planning is more advanced than many people are used to, but it's important to understand the assumptions behind the numbers that guide your saving and investing. So we'll review the calculations needed for retirement planning in detail.
 
+&nbsp;
+
 ### Les mathématiques
 
 We can begin with a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote for why it must be calculated that way.<sup id="fn1">[1](#f1)</sup>
@@ -73,11 +75,33 @@ There are some notes to keep in mind.
 
 &nbsp;
 
+All sections:
+
+* [Cover page](https://github.com/investindex/Intro)
+* [Introduction to index funds](https://github.com/investindex/Index)
+* [Thinking about risk](https://github.com/investindex/Risk)
+* [Your psychology](https://github.com/investindex/Psychology)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Investing for retirement](https://github.com/investindex/Retirement)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
+* [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
+
+&nbsp;
+
+Footnotes:
+
 <sup id="f1"> 1 </sup> For some people it may not be obvious why the more common arithmetic mean is unsuitable. Perhaps we could have found the average return like this: (7+15.5-2)/3 = 6.83 or (1.07+1.155+.98)/3 = 1.0683. To consider this, we can imagine an unlikely sequence of returns, in which we double our money the first year and halve it the following year. Multiplying an asset by 2 and then .5 returns it to its original value. We can calculate the geometric mean of these multipliers, which we know intuitively should be 1: (2×.5)^(1/2) = 1. That's right, but the arithmetic mean gives us an incorrect answer, (2+.5)/2 = 1.25. Another way of checking this is finding that the average return matches the actual return. 1.07×1.155×.98 = 1.21, which equals 1.0659^3. The arithmetic mean of 1.0683 does not satisfy this test. Because we are averaging multiplicative factors, the geometric mean must be applied. [↩](#fn1)
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> You can [click here](https://www.wolframalpha.com/input/?i=ReplaceAll%5B%28D%2F%28W*R%5ET%29-A%29+%2F+Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%2C+%7BR+-%3E+1.09%2F1.025%2C+G+-%3E+1.02%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+.035%2C+A+-%3E+0%7D%5D) to use a formula I set up in WolframAlpha. There are six variables. Five were already discussed: R for annual real return, T for years until retirement, D for desired retirement income in today's dollars, W for withdrawal rate, and G for inflation-adjusted annual growth of savings. G is introduced in the second approach to saving; to use the flat approach, set G equal to 1. The sixth variable is A, savings which already exist. The examples above assume no savings are set aside for retirement yet, but we can easily add this to the equation. R is the nominal return rate divided by inflation rate, 1.09/1.025 in the example above. To see how the equation is derived, [click here](https://github.com/investindex/Guidelines/blob/main/Retirement.pdf). [↩](#fn2)
+<sup id="f2"> 2 </sup> You can [click here](https://www.wolframalpha.com/input/?i=ReplaceAll%5B%28D%2F%28W*R%5ET%29-A%29+%2F+Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%2C+%7BR+-%3E+1.09%2F1.025%2C+G+-%3E+1.02%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+.035%2C+A+-%3E+0%7D%5D) to use a formula I set up in WolframAlpha. There are six variables. Five were already discussed: R for annual real return, T for years until retirement, D for desired retirement income in today's dollars, W for withdrawal rate, and G for inflation-adjusted annual growth of savings. G is introduced in the second approach to saving; to use the flat approach, set G equal to 1. The sixth variable is A, savings which already exist. The examples above assume no savings are set aside for retirement yet, but we can easily add this to the equation. R is the nominal return rate divided by inflation rate, 1.09/1.025 in the example above. To see how the equation is derived, [click here](https://github.com/investindex/Retirement/blob/main/Retirement.pdf). [↩](#fn2)
 
 &nbsp;
 
