@@ -46,6 +46,8 @@ There are many ways of doing so. We'll describe the simplest first. We save and 
 The figure below illustrates this process. It shows our cumulative contributions to retirement savings (purple) as well as the value of our nest egg as it grows over time (red). Notice how the value of the nest egg explodes in the last ten years, increasing by over $2M. This is how any exponential process looks, but it underlines the importance of beginning as early as possible. Every year delayed is one year less of that ever-accelerating explosion at the end. Of course, there will be a great deal of volatility in the red line — stock market returns are not smooth.
 &nbsp;
 
+&nbsp;
+
 <p align="center">
 <img src="https://github.com/investindex/Retirement/blob/main/Retirement%20Plot.png" width="630" height="540"/>
 </p>
