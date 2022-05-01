@@ -2,18 +2,18 @@
 
 Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about long-run investing and retirement.
 
-Factors over which you exercise some control include:  
-* Income during your working years and changes in income over time;  
-* Allocation and timing of investments;  
-* Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
-* At what age you may merge finances with a long-term partner;  
-* At what age you may have children;  
-* Support you expect to provide to and receive from your family;  
-* How much you will spend, save, and invest during working years;  
-* How much you will change your spending after retirement;  
-* How you will change your investment approach after retirement;  
-* Age of retirement;  
-* Whether you retire suddenly or continue earning a smaller income for some time;  
+Factors over which you exercise some control include:
+* Income during your working years and changes in income over time;
+* Allocation and timing of investments;
+* Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);
+* At what age you may merge finances with a long-term partner;
+* At what age you may have children;
+* Support you expect to provide to and receive from your family;
+* How much you will spend, save, and invest during working years;
+* How much you will change your spending after retirement;
+* How you will change your investment approach after retirement;
+* Age of retirement;
+* Whether you retire suddenly or continue earning a smaller income for some time;
 * Personal goals such as charitable donations or leaving money for your children.
 
 Factors over which you exercise little or no control include:  
@@ -35,7 +35,7 @@ I don't recommend relying on calculators like the one above (or rules of thumb l
 
 ### Les mathématiques
 
-We can begin with a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote for why it must be calculated that way.<sup id="fn1">[[1]](#f1)</sup>
+We can begin with a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote<sup id="fn1">[[1]](#f1)</sup> for why it must be calculated that way.
 
 Second, how does [inflation](https://www.investopedia.com/terms/i/inflation.asp) work when calculating returns? We can calculate growth over time based on an anticipated average rate of return. If we assume a 9% average annual return over 40 years, the asset will be multiplied by 1.09^40 = 31.4. This is our nominal return, which is distinguished from the real return — that which remains after accounting for inflation. With average 2.5% inflation, it is calculated as 1.09/1.025 = 1.0634, or a 6.34% real return. This gives us a real multiplier over 40 years of (1.09/1.025)^40 = 11.7. So instead of imagining that your money will multiply by 31.4, remember that your dollars will be worth less in 40 years, and the multiplier will feel much more like 11.7. If this shrinking multiplier is discouraging, imagine how your dollars would decay if you didn't invest at all: (1/1.025)^40 = .372. They would lose 63% of their purchasing power over 40 years! A 9% nominal return converts that multiplier of .37 to 11.7.
 
