@@ -6,6 +6,7 @@ Factors over which you exercise some control include:
 * Income during your working years and changes in income over time;
 * Allocation and timing of investments;
 * Use of [tax-advantaged accounts](https://github.com/investindex/TaxAdv);
+* Where you live;
 * At what age you may merge finances with a long-term partner;
 * At what age you may have children;
 * Support you expect to provide to and receive from your family;
