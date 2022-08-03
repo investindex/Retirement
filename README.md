@@ -67,15 +67,15 @@ You may find it useful to reverse this process and convert certain savings patte
 
 &nbsp;
 
-#### What can we learn from the math?
+### What can we learn from the math?
 
-We can use the flat method of saving to illustrate how important it is to start early. Our first year savings target is $8,080 if we have a 40-year horizon, but with 30 years the figure is $15,088; with 20 years it is $31,062; and with 10 years it is $83,449. When you start late, you give your capital less time to appreciate. In addition, allowing yourself more time implies that your average return will tend to revert to long-term expected returns. The average return of someone with a timeline of only 10 or 15 years will be strongly influenced by idiosyncratic trends and events; their results may be fantastic or underwhelming. For example, someone investing in the cap-weighted US market only from 2000-2009 would have been disappointed, whereas someone investing only from 2010-2019 would have experienced a dazzling run-up. The average return of someone with a timeline of 30 or 40 years is more predictable, in the neighborhood of [8% for the stock market](https://github.com/investindex/Risk#f1). We will discuss in the [next section](https://github.com/investindex/Portfolio) how to improve expected returns through diversification beyond the cap-weighted total market.
-
-There are a couple implications of the math worked out above. First, the earlier in life a financial sacrifice is made to save money for retirement, the more potent that act will be. $1,000 invested at an average 8% return until age 75 becomes
+The earlier in life a financial sacrifice is made to save money for retirement, the more potent that act will be. $1,000 invested at an average 8% return until age 75 becomes:
 * $4,700 if saved at age 55
 * $10,100 if saved at age 45
 * $21,700 if saved at age 35
 * $46,900 if saved at age 25
+
+We can also use the flat method of saving to illustrate how important it is to start early. In our example the first year savings target is $8,080 with a 40-year horizon. But with 30 years the figure is $15,088; with 20 years it is $31,062; and with 10 years it is $83,449. When you start late, you give your capital less time to appreciate. In addition, allowing yourself more time implies that your average return will tend to revert to long-term expected returns. The average return of someone with a timeline of only 10 or 15 years will be strongly influenced by idiosyncratic trends and events; their results may be fantastic or underwhelming. For example, someone investing in the cap-weighted US market only from 2000-2009 would have been disappointed, whereas someone investing only from 2010-2019 would have experienced a dazzling run-up. The average return of someone with a timeline of 30 or 40 years is more predictable, in the neighborhood of [8% for the stock market](https://github.com/investindex/Risk#f1). We will discuss in the [next section](https://github.com/investindex/Portfolio) how to increase expected returns aboe 8% through diversification beyond the cap-weighted total market.
 
 Of course, it is many people's financial reality that they cannot save large amounts of money at a young age. The point here is not to wag a finger at them, but to emphasize the importance of saving and investing as early as possible within the constraints of your situation. Second, if your spending closely matches your income, you will appear to be living within your means. But failing to save for an eventual goal of financial independence means that the appearance of spending responsibly is superficial. An ever-deepening well of savings is not only necessary for retirement: it also gives you the freedom to not rely on the next paycheck to sustain your lifestyle. The ability to make decisions without the pressure of imminent financial need is one of the great rewards of building wealth.
 
