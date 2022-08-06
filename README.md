@@ -1,6 +1,6 @@
 # Investing for retirement
 
-Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about long-run investing and retirement.
+Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. Let's start with a broad overview of how to think about long-run investing and financial independence.
 
 Factors over which you exercise some control include:
 * Income during your working years and changes in income over time;
@@ -109,7 +109,7 @@ I recommend this [interview with Michael Kitces](https://www.youtube.com/watch?v
 
 &nbsp;
 
-[Click here for the next section — Building a stock portfolio](https://github.com/investindex/Portfolio)
+[Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
 &nbsp;
 
@@ -120,8 +120,8 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Your psychology](https://github.com/investindex/Psychology)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
