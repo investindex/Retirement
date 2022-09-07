@@ -69,7 +69,9 @@ You may find it useful to reverse this process and convert certain savings patte
 
 ### What can we learn from the math?
 
-The earlier in life a financial sacrifice is made to save money for retirement, the more potent that act will be. $1,000 invested at an average 8% return until age 75 becomes:
+First: the plot shows that a difference of even one percentage point in average returns makes an enormous difference to lifetime wealth. Even half a percentage point can easily amount to hundreds of thousands of dollars!
+
+Second: the earlier in life a financial sacrifice is made to save money for retirement, the more potent that act will be. $1,000 invested at an average 8% return until age 75 becomes:
 * $4,700 if saved at age 55
 * $10,100 if saved at age 45
 * $21,700 if saved at age 35
@@ -79,7 +81,7 @@ We can also use the flat method of saving to illustrate how important it is to s
 
 Of course, it is many people's financial reality that they cannot save large amounts of money at a young age. The point here is not to wag a finger at them, but to emphasize the importance of saving and investing as early as possible within the constraints of your situation.
 
-If your spending closely matches your income, you will appear to be living within your means. But failing to save for an eventual goal of financial independence means that the appearance of spending responsibly is superficial. An ever-deepening well of savings is not only necessary for retirement: it also gives you the freedom to not rely on the next paycheck to sustain your lifestyle. The ability to make decisions without the pressure of imminent financial need is one of the great rewards of building wealth.
+Third: if your spending closely matches your income, you will appear to be living within your means. But failing to save for an eventual goal of financial independence means that the appearance of spending responsibly is superficial. An ever-deepening well of savings is not only necessary for retirement: it also gives you the freedom to not rely on the next paycheck to sustain your lifestyle. The ability to make decisions without the pressure of imminent financial need is one of the great rewards of building wealth.
 
 &nbsp;
 
