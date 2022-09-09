@@ -75,7 +75,7 @@ You may find it useful to reverse this process and convert certain savings patte
 
 ### What can we learn from the math?
 
-First: the plot shows that a difference of even one percentage point in average returns makes an enormous difference to lifetime wealth. Even half a percentage point can easily amount to hundreds of thousands of dollars!
+First: the plot shows that a difference of even one percentage point in average returns makes an enormous difference to lifetime wealth. Even half a percentage point can easily amount to hundreds of thousands of dollars! And, of course, investing doesn't end at retirement age: a large enough nest egg can continue growing during retirement.
 
 Second: the earlier in life a financial sacrifice is made to save money for retirement, the more potent that act will be. $1,000 invested at an average 8% return until age 75 becomes:
 * $4,700 if saved at age 55
