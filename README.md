@@ -58,7 +58,7 @@ The figure below illustrates this process. It shows our cumulative contributions
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/investindex/Retirement/blob/main/Nest%20Egg.png" width="630" height="540"/>
+<img src="https://github.com/investindex/Retirement/blob/main/Retirement%20Plot.png"/>
 </p>
 
 &nbsp;
