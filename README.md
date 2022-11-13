@@ -91,7 +91,7 @@ A high savings rate in your early career has [another benefit](https://www.white
 
 Second: the plot shows that a difference of even one percentage point in average returns makes an enormous difference to lifetime wealth. Even half a percentage point can easily amount to hundreds of thousands of dollars! And, of course, investing doesn't end at retirement age.
 
-Third: if your spending closely matches your income, you will appear to be living within your means. But failing to save for an eventual goal of financial independence means that the appearance of spending responsibly is superficial. An ever-deepening well of savings is not only necessary for retirement: it also gives you the freedom to not rely on the next paycheck to sustain your lifestyle. The ability to make decisions without the pressure of imminent financial need is one of the great rewards of building wealth. There is a lot more to saving than maximizing your wealth at age 70.
+Third: if your spending closely matches your income, you will appear to be living within your means. But failing to save for an eventual goal of financial independence means that the appearance of spending responsibly is superficial. An ever-deepening well of savings is not only necessary for retirement: it also gives you the freedom to not rely on the next paycheck to sustain your lifestyle. __The ability to make decisions without the pressure of imminent financial need is one of the great rewards of building wealth.__ There is a lot more to saving than maximizing your wealth at age 70.
 
 &nbsp;
 
