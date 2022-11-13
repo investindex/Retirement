@@ -169,3 +169,9 @@ And to calculate retirement income from savings:
 ReplaceAll[W\*R^T\*(A+S\*Sum[(G/R)^Y, {Y, 0, T-1}]), {S -> 6108.87, G -> 1.02, R -> 1.08/1.025, T -> 40, W -> .04, A -> 0}]
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
