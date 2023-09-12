@@ -192,6 +192,12 @@ How long do we need to live for it to be worth waiting to enroll in benefits at 
 
 It's better to receive money sooner than later, because we can invest the money in the intervening time. Let's say the bulk of our liquid net worth is in a portfolio with an expected return of 6%. This refers to the after-tax return, but many retirees have significant assets in tax-advantaged accounts, so tax may not be a major issue. What if taking benefits sooner allowed us to avoid withdrawing those amounts from our portfolio, so we could continue investing them? How much more appealing do earlier benefits become when we recognize the time value of money? Using our 6% expected return, the [age 67 path](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2892%2B9%2F12%29%2C+B+-%3E+67%2C+F+-%3E+1%7D%5D) now catches up with the [age 62 path](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2892%2B9%2F12%29%2C+B+-%3E+62%2C+F+-%3E+0.7%7D%5D) at 92 and 9 months! The [age 70 path](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2894%2B3%2F12%29%2C+B+-%3E+70%2C+F+-%3E+1.24%7D%5D) takes until 94 and 3 months to catch up to the [age 62 path](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2894%2B3%2F12%29%2C+B+-%3E+62%2C+F+-%3E+0.7%7D%5D), [and until](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2897%2B1%2F12%29%2C+B+-%3E+70%2C+F+-%3E+1.24%7D%5D) 96 and 4 months to catch up to the [age 67 path](https://www.wolframalpha.com/input?i=ReplaceAll%5BF*Sum%5BR%5En%2C+%7Bn%2C+0%2C+A-B%7D%5D%2C+%7BR+-%3E+1.06%2C+A+-%3E+%2897%2B1%2F12%29%2C+B+-%3E+67%2C+F+-%3E+1%7D%5D). Does it make sense to place a bet that you'll live well past 90 when you're 62? In my mind, it usually does not. However, we haven't covered taxation of benefits.
 
+| | Age at which it pays off to have waited until 67 instead of 62 | Age at which it pays off to have waited until 70 instead of 62 | Age at which it pays off to have waited until 70 instead of 67 | 
+| :--: | :--: | :--: | :--: |
+| No return | 77y 8m | 79y 5m | 81y 6m |
+| 5% return | 87y 3m | 88y 10m | 91y 0m |
+| 6% return | 92y 9m | 94y 3m | 96y 4m |
+
 [More incoming here.] [↩](#fn5)
 
 &nbsp;
