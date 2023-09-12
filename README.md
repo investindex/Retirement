@@ -186,7 +186,11 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f5"> 5 </sup> Although waiting to apply for Social Security benefits increases the monthly benefit for the rest of your life, this doesn't imply that everyone should wait until 70 to begin receiving them. We need to consider (a) the time value of money and (b) that we may die too soon for the larger, delayed payments to catch up in cumulative value. We also need to consider tax, but we can't do that for everyone in a single calculation. [↩](#fn5)
+<sup id="f5"> 5 </sup> Although waiting to apply for Social Security benefits increases the monthly benefit for the rest of your life, this doesn't imply that everyone should wait until 70 to begin taking them. We need to consider (a) the time value of money and (b) that we may die too soon for the larger, delayed payments to catch up in cumulative value. We also need to consider tax, but we can't do that for everyone in a single calculation.
+
+How long do we need to live for it to be worth waiting to enroll in benefits at the full retirement age (67) instead of at the first opportunity (62)? Let's consider point (b) first, just the cumulative amounts of cash. Monthly benefits at 62 would be 70% of the benefits received at 67, so we'll define the benefit amounts as 0.7 and 1 in our calculations. You can use a spreadsheet with equations or some math to find that the age 67 path will catch up to the age 62 path in terms of dollars received at age 77 and 8 months. If we wait even longer to take benefits at age 70, our monthly benefits will be 24% larger than in the age 67 path. It takes the age 70 path until age 79 and 5 months to catch up to the age 62 path, and until 81 years and 6 months to catch up to the age 67 path. Lots of people die before they turn 81! So to wait until 67 or older to take benefits, we're already betting that we'll live pretty long. Now let's consider the value of receiving benefits sooner.
+
+[More incoming] [↩](#fn5)
 
 &nbsp;
 
