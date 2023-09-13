@@ -195,8 +195,10 @@ It's better to receive money sooner than later, because we can invest the money 
 | | &nbsp; &emsp; &emsp; 67 catches 62 &emsp; &emsp; &nbsp; | &emsp; &emsp; 70 catches 62 &emsp; &emsp; | &emsp; &emsp; 70 catches 67 &emsp; &emsp; | 
 | :--: | :--: | :--: | :--: |
 | &emsp; &emsp; No return &emsp; &emsp; | 77y 8m | 79y 5m | 81y 6m |
+| 4% return | 84y 0m | 85y 7m | 87y 9m |
 | 5% return | 87y 3m | 88y 10m | 91y 0m |
 | 6% return | 92y 9m | 94y 3m | 96y 4m |
+| 7% return | 107y 5m | 108y 7m | 110y 1m |
 
 [More incoming here.] [↩](#fn5)
 
