@@ -1,6 +1,6 @@
 # Investing for retirement
 
-Hopefully this section can illustrate the impressive power of compounding growth which makes comfortable retirement possible. We'll also discuss the evidence on how to invest after retiring. Let's start with a broad overview of how to think about long-run investing and financial independence.
+Hopefully this section can illustrate the impressive power of compounding growth that makes comfortable retirement possible. We'll also discuss the evidence on how to invest after retiring. Let's start with a broad overview of how to think about long-run investing and financial independence.
 
 Factors over which you exercise some control include:
 * Income during your working years and changes in income over time;
