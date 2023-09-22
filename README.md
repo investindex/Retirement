@@ -12,8 +12,8 @@ Factors over which you exercise some control include:
 * At what age you may have children;
 * Support you expect to provide to and receive from your family;
 * How much you will spend, save, and invest during working years;
-* How much you will change your spending after retirement;
-* How you will change your investment approach after retirement;
+* How much you will change your spending during retirement;
+* How you will change your investment approach during retirement;
 * Age of retirement;
 * Whether you retire suddenly or continue earning a smaller income for some time;
 * Personal goals such as charitable donations or leaving money for your children.
@@ -143,7 +143,7 @@ I recommend this [interview with Michael Kitces](https://www.youtube.com/watch?v
 
 ### Summary
 
-Uncertainty dominates the processes of investing for retirement and drawing partly on your investments to spend after retirement. Unfortunately, even Social Security benefits are a source of uncertainty, given the imminent funding shortfall for those benefits. We can prepare well for retirement by saving at a high rate, saving as early in life as we can, investing in a diversified portfolio with high expected return, and minimizing tax — mainly by using [tax-advantaged accounts](https://github.com/investindex/TaxAdv). These practices reduce the impact of uncertainty about investment returns, tax rates, future income, future spending, marital status, and more. During retirement, uncertainty about your lifespan expands into a dominant variable, and combines with uncertainty about the lifespan of your partner (if you have one). Since an individual's lifespan can't be reliably predicted, a retirement nest egg needs to be spent carefully, and we reviewed guidelines for how to sustainably withdraw from your portfolio.
+Uncertainty dominates the processes of investing for retirement and drawing partly on your investments to spend during retirement. Unfortunately, even Social Security benefits are a source of uncertainty, given the imminent funding shortfall for those benefits. We can prepare for retirement by saving at a high rate, saving as early in life as we can, investing in a diversified portfolio with high expected return, and minimizing tax — mainly by using [tax-advantaged accounts](https://github.com/investindex/TaxAdv). These practices reduce the impact of uncertainty about investment returns, tax rates, future income, future spending, marital status, and more. During retirement, uncertainty about your lifespan expands into a dominant variable, and combines with uncertainty about the lifespan of your partner (if you have one). Since an individual's lifespan can't be reliably predicted, a retirement nest egg needs to be spent carefully, and we reviewed guidelines for how to sustainably withdraw from your portfolio.
 
 &nbsp;
 
