@@ -121,7 +121,7 @@ One method is to truncate any large fluctuation in withdrawals that a constant p
 
 Based on all this, I would suggest a simple approach for the typical retiree. A static allocation is the easiest to maintain, especially if you use an all-in-one fund like [AVMA](https://www.avantisinvestors.com/avantis-investments/avantis-moderate-allocation-etf/), [AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf), or [VSMGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsmgx). A static portfolio should probably hold 50-80% equities, and arguably the best bonds to complement stocks are long-duration US Treasury bonds. Estrada's paper emphasized the astonishing historical success of 100% stock portfolios, but I would caution that the past can't fully inform us about an uncertain future. Diversification is still a fundamentally sound approach for those relying on their portfolio to sustain them for the rest of their life. Estrada found that the best declining equity glide paths migrated from 80% to 20% and 70% to 30% — they even beat a 60/40 portfolio! See [this section](https://github.com/investindex/Risk) for info on different types of bonds, [this section](https://github.com/investindex/Portfolio) for how to build a stock portfolio, and the [advanced topics](https://github.com/investindex/Advanced) for asset classes beyond stocks and bonds. If depletion of assets is on the table — which is the case if your desired spending is initially greater than perhaps 3% of your portfolio, or you expect a retirement much longer than 30 years — then spending should be regulated by a flexible approach with an initial withdrawal rate of 4-5%. Of course, all this should be adapted to each individual's risk tolerance, life expectancy, Social Security and pension income, anticipated changes in desired spending over the retirement period, wishes to bequest money to children or charity, and other unique factors.
 
-The website [ficalc.app](https://ficalc.app/) beautifully illustrates portfolio values and spending based on a given length of retirement, portfolio, spending strategy, and other variables. It draws on US data only, so don't take it as a final word, but it is a great tool to see how different approaches could've developed in real situations.
+The website [ficalc.app](https://ficalc.app/) (where FI is financial independence) beautifully illustrates portfolio values and spending based on a given length of retirement, portfolio, spending strategy, and more. It draws on US data only, so don't take it as a final word, but it is a great tool to see how different approaches would've developed in the past.
 
 &nbsp;
 
@@ -204,7 +204,7 @@ It's better to receive money sooner than later, because we can invest the money 
 | 6% return | 92y 9m | 94y 3m | 96y 4m |
 | 7% return | 107y 5m | 108y 7m | 110y 1m |
 
-[More incoming here.] [↩](#fn5)
+If Social Security old age benefits were an individual's or married couple's only income, that income would typically not be taxed at the federal level. A person or couple close to the [highest possible](https://faq.ssa.gov/en-US/Topic/article/KA-01897) benefits would be taxed. However, someone's benefits are more likely to be taxed if they have other income, which could be from employment, investing, or withdrawing from a tax-deferred account. [This video](https://www.youtube.com/watch?v=-NlSlZeoRn4) explains the somewhat complex taxation of Social Security benefits. [More incoming here.] [↩](#fn5)
 
 &nbsp;
 
