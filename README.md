@@ -204,7 +204,7 @@ It's better to receive money sooner than later, because we can invest the money 
 | 6% return | 92y 9m | 94y 3m | 96y 4m |
 | 7% return | 107y 5m | 108y 7m | 110y 1m |
 
-If Social Security old age benefits were an individual's or married couple's only income, that income would typically not be taxed at the federal level. A person or couple close to the [highest possible](https://faq.ssa.gov/en-US/Topic/article/KA-01897) benefits would be taxed, but that's rare. Someone's benefits are more likely to be taxed if they have other income, which could be from employment, investing, or withdrawing from a tax-deferred account. [This video](https://www.youtube.com/watch?v=-NlSlZeoRn4) explains the somewhat complex taxation of Social Security benefits. [More incoming here.] [↩](#fn5)
+If Social Security old age benefits were an individual's or married couple's only income, that income would typically not be taxed at the federal level. A person or couple close to the [highest possible](https://faq.ssa.gov/en-US/Topic/article/KA-01897) benefits would be taxed, but that's rare. Someone's benefits are more likely to be taxed if they have other income, which could be from employment, investments, a pension, or withdrawals from a tax-deferred account. [This video](https://www.youtube.com/watch?v=-NlSlZeoRn4) explains the somewhat complex taxation of Social Security benefits. [More incoming here.] [↩](#fn5)
 
 &nbsp;
 
