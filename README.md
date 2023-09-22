@@ -137,7 +137,7 @@ The website [ficalc.app](https://ficalc.app/) (where FI is financial independenc
 
 <b>(5)</b> Taxes are an essential part of retirement planning. The [section on taxes](https://github.com/investindex/Taxes#tax-efficient-investing) discusses various techniques for tax-efficient investing. Your expected return could be 8% before taxes but, if you're investing in a taxable account, gains are undercut whenever they're realized. So the most important factor is how much you contribute to tax-advantaged accounts. Moreover, remember that money in your traditional IRA is pre-tax, so using withdrawals from a traditional IRA to generate a $45K "income" is very different than doing the same with a Roth IRA. The best approach is to use [a combination](https://github.com/investindex/Taxes#roth-or-traditional) of Roth and traditional accounts.
 
-I recommend this [interview with Michael Kitces](https://www.youtube.com/watch?v=5dbPdCdFRrs) on a variety of retirement topics. Despite the disagreement with Kitces stated above, I think it's a great watch. Larry Swedroe and Kevin Grogan's [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) provides good coverage of all the major retirement considerations.
+I recommend this [interview with Michael Kitces](https://www.youtube.com/watch?v=5dbPdCdFRrs) on a variety of retirement topics. Despite the disagreement with Kitces stated above, I think it's a great watch. Larry Swedroe and Kevin Grogan's [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) provides good coverage of the major retirement considerations.
 
 &nbsp;
 
@@ -204,7 +204,7 @@ It's better to receive money sooner than later, because we can invest the money 
 | 6% return | 92y 9m | 94y 3m | 96y 4m |
 | 7% return | 107y 5m | 108y 7m | 110y 1m |
 
-If Social Security old age benefits were an individual's or married couple's only income, that income would typically not be taxed at the federal level. A person or couple close to the [highest possible](https://faq.ssa.gov/en-US/Topic/article/KA-01897) benefits would be taxed. However, someone's benefits are more likely to be taxed if they have other income, which could be from employment, investing, or withdrawing from a tax-deferred account. [This video](https://www.youtube.com/watch?v=-NlSlZeoRn4) explains the somewhat complex taxation of Social Security benefits. [More incoming here.] [↩](#fn5)
+If Social Security old age benefits were an individual's or married couple's only income, that income would typically not be taxed at the federal level. A person or couple close to the [highest possible](https://faq.ssa.gov/en-US/Topic/article/KA-01897) benefits would be taxed, but that's rare. Someone's benefits are more likely to be taxed if they have other income, which could be from employment, investing, or withdrawing from a tax-deferred account. [This video](https://www.youtube.com/watch?v=-NlSlZeoRn4) explains the somewhat complex taxation of Social Security benefits. [More incoming here.] [↩](#fn5)
 
 &nbsp;
 
