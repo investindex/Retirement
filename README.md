@@ -68,7 +68,7 @@ The figure below illustrates this process. It shows our cumulative contributions
 
 &nbsp;
 
-A variation on the first approach is to increase savings each year by last year's inflation, rather than an assumed long-term average inflation rate like 2.5%. This is a good idea, but of course when planning you will find yourself doing the same calculations because you cannot know what each year's inflation will be. If a given year has unusually low inflation, you may want to adhere to your assumed long-term rate anyway, to be safe.
+A variation on the first approach is to increase savings each year by last year's inflation, rather than an assumed long-term average inflation rate like 2.5%. This is a good idea, but of course when planning you will find yourself doing the same calculations because you cannot know what each year's inflation will be.
 
 This first approach could be called time-invariant or flat: you contribute the same inflation-adjusted amount every year. This is advantageous because the more you frontload your retirement savings, the less you need to save overall. In the example above, we contributed only [18%](https://www.wolframalpha.com/input?i=544587.69%2F3020696.82) of the final nest egg and investment took care of the rest. In other words, more than four out of every five dollars were the fruits of investing! If you could put away even more in your early life than this approach would suggest, that would be great. But many people need to do the opposite: they cannot save much until later in life. So we could design an approach in which we increase savings each year in addition to inflation, to acknowledge the growth in ability to save.
 
